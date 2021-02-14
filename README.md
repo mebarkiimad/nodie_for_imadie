@@ -1,1 +1,1 @@
-# nodie_for_imadie a simple RoleBased nodejs RestApi with mongoDB
+# nodie_for_imadie is  a simple RoleBased nodejs RestApi with Express and  mongoDB
